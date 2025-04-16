@@ -1,5 +1,5 @@
 {
-  "name": "eklimat-vite-app",
+  "name": "eklimat-ready",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
@@ -8,9 +8,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-qr-code": "^2.0.6",
-    "uuid": "^9.0.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
